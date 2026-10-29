@@ -1,0 +1,12 @@
+# Roast Toast Coast Cafe (Menu.html)
+#
+# No Python packages, Node modules or build tools are required.
+# This is a single static HTML file with inline CSS and JavaScript.
+#
+# To run:
+#   - Any modern web browser (Microsoft Edge, Google Chrome, Firefox)
+#   - Internet access, to load the background image (Unsplash)
+#     and the Bogart web font (cdnfonts.com)
+#
+# Optional, for editing and troubleshooting:
+#   - A code editor such as VS Code or IBM Bob
